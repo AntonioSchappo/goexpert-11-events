@@ -1,4 +1,4 @@
-module github.com/AntonioSchappo/eventlib
+module github.com/AntonioSchappo/goexpert-11-events
 
 go 1.20
 
