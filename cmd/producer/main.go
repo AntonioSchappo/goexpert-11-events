@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	"github.com/AntonioSchappo/eventlib/pkg/rabbitmq"
+	"github.com/AntonioSchappo/goexpert-11-events/pkg/rabbitmq"
 )
 
 func main() {
